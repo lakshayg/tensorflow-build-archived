@@ -19,6 +19,10 @@ Config: Arch Linux, GCC 6.3, Python 3.6.1
 Flags:  -msse4.1 -msse4.2 -mavx -mavx2 -mfma -O3
 Config: Ubuntu 16.04, GCC 5.4, Python 3.5.2
 
+* tensorflow-1.2.0rc1-cp27-cp27mu-linux_x86_64.whl
+Flags:  -msse4.1 -msse4.2 -mavx -mavx2 -mfma -O3
+Config: Ubuntu 16.04, GCC 5.4, Python 2.7.12
+
 * tensorflow-1.2.0rc2-cp36-cp36m-linux_x86_64.whl
 Flags: -march=native -mtune=native -O3
 CPU Info: Intel(R) Core(TM) i7-4500U CPU @ 1.80GHz
