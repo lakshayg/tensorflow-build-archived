@@ -28,3 +28,7 @@ Flags: -march=native -mtune=native -O3
 CPU Info: Intel(R) Core(TM) i7-4500U CPU @ 1.80GHz
 Config: Arch Linux, GCC 7.1, Python 3.6.1
 Comments: Built with MKL support
+
+* tensorflow-1.2.1-cp27-cp27m-macosx_10_12_x86_64.whl
+Flags:  -msse4.1 -msse4.2 -mavx -mavx2 -mfma -O3
+Config: macOS Sierra, Apple LLVM version 8.1.0 (clang-802.0.42), Python 2.7.13
