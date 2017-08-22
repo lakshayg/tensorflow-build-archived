@@ -1,4 +1,4 @@
-This repository contains a custom builds of tensorflow. To install
+This repository contains custom builds of tensorflow. To install
 one of these on your system, download the correct file according
 to your version of python and gcc and run the following command.
 ```
@@ -16,4 +16,7 @@ pip install --ignore-installed --upgrade /path/to/binary.whl
 | 1.2.1    | macOS Sierra | clang-802.0.42 | 3.6.1  | AVX, SSE4.1, SSE4.2                     | [Download](https://github.com/lakshayg/tensorflow-build/raw/master/tensorflow-1.2.1-cp36-cp36m-macosx_10_12_x86_64.whl) |
 | 1.2.1    | macOS Sierra | clang-802.0.42 | 3.6.1  | FMA, AVX, AVX2, SSE4.1, SSE4.2          | [Download](https://github.com/lakshayg/tensorflow-build/raw/72454268db8ce69e0fe3c7b23c17aad6ea69b257/tensorflow-1.2.1-cp36-cp36m-macosx_10_12_x86_64.whl) |
 
-**Note** If the configuration you need is not present in the above list then please check [tensorflow-community-wheels](https://github.com/yaroslavvb/tensorflow-community-wheels/issues) to see if someone has built TF with that configuration before opening a new issue.
+**Note**
+
+* Fill in this form https://goo.gl/forms/ELoTSOcHE99nhVXc2 if you would like to request a binary
+* Feel free to open a pull request/issue if you would like to share your binary on this page
