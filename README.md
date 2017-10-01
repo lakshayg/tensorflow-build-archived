@@ -27,3 +27,5 @@ pip install --ignore-installed --upgrade /path/to/binary.whl
 
 * Consider filling this survey form https://goo.gl/forms/ELoTSOcHE99nhVXc2 if you have downloaded or are looking for a binary
 * Feel free to open a pull request/issue if you would like to share your binary on this page
+
+[@lakshayg_](https://twitter.com/lakshayg_)
