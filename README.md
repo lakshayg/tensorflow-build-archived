@@ -4,6 +4,12 @@ to your version of python and gcc and run the following command.
 ```
 pip install --ignore-installed --upgrade /path/to/binary.whl
 ```
+You can also install directly from github using, e.g.
+```
+pip install --ignore-installed --upgrade \
+    https://raw.githubusercontent.com/lakshayg/tensorflow-build/master/tensorflow-1.4.0rc1-cp36-cp36m-linux_x86_64.whl
+```
+
 | TF       | HW  | OS           | GCC            | Python      | Supports                                  |                                                                                                                         |
 |----------|-----|--------------|----------------|-------------|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
 | 1.1.0    | CPU | Arch Linux   | 6.3            | 3.6.1       | FMA, AVX, AVX2, SSE4.1, SSE4.2, XLA       | [Download](https://github.com/lakshayg/tensorflow-build/raw/master/tensorflow-1.1.0-cp36-cp36m-linux_x86_64.whl)        |
