@@ -4,10 +4,9 @@ to your version of python and gcc and run the following command.
 ```
 pip install --ignore-installed --upgrade /path/to/binary.whl
 ```
-You can also install directly from github using, e.g.
+You can also install directly from github using
 ```
-pip install --ignore-installed --upgrade \
-    https://raw.githubusercontent.com/lakshayg/tensorflow-build/master/tensorflow-1.4.0rc1-cp36-cp36m-linux_x86_64.whl
+pip install --ignore-installed --upgrade "Download URL"
 ```
 
 | TF       | HW  | OS           | GCC            | Python      | Supports                                  |                                                                                                                         |
