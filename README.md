@@ -4,6 +4,11 @@ to your version of python and gcc and run the following command.
 ```
 pip install --ignore-installed --upgrade /path/to/binary.whl
 ```
+You can also install directly from github using
+```
+pip install --ignore-installed --upgrade "Download URL"
+```
+
 | TF       | HW  | OS           | GCC            | Python      | Supports                                  |                                                                                                                         |
 |----------|-----|--------------|----------------|-------------|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
 | 1.1.0    | CPU | Arch Linux   | 6.3            | 3.6.1       | FMA, AVX, AVX2, SSE4.1, SSE4.2, XLA       | [Download](https://github.com/lakshayg/tensorflow-build/raw/master/tensorflow-1.1.0-cp36-cp36m-linux_x86_64.whl)        |
@@ -25,6 +30,6 @@ pip install --ignore-installed --upgrade /path/to/binary.whl
 | 1.1-1.3  | CPU, GPU | Ubuntu 16.04 | 2.7, 3.5, 3.6 | FMA, AVX, AVX2, SSE4.1, SSE4.2, MPI | [Link](https://github.com/mind/wheels)  |
 | 1.2.1    | CPU      | Ubuntu 17.04 | 3.5.3         | XLA, AVX, AVX2, FMA, SSE4.1, SSE4.2 | [Link](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/26) |
 
-**Feel free to open a pull request/issue if you would like to share your binary on this page**
+**If you find a binary present on the internet, consider opening a pull request to add a link to it**
 
 [@lakshayg_](https://twitter.com/lakshayg_)
