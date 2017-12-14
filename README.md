@@ -24,6 +24,7 @@ pip install --ignore-installed --upgrade "Download URL"
 | 1.2.1    | CPU | macOS Sierra | clang-802.0.42   | 3.6.1       | FMA, AVX, AVX2, SSE4.1, SSE4.2            | [Download](https://github.com/lakshayg/tensorflow-build/raw/72454268db8ce69e0fe3c7b23c17aad6ea69b257/tensorflow-1.2.1-cp36-cp36m-macosx_10_12_x86_64.whl) |
 | 1.4.0    | CPU | macOS Sierra | clang-802.0.42   | 3.6.3       | SSE4.1, SSE4.2, AVX, AVX2, FMA            | [Download](https://github.com/lakshayg/tensorflow-build/raw/master/tensorflow-1.4.0-cp36-cp36m-macosx_10_12_x86_64.whl) |
 | 1.4.1    | CPU | macOS Sierra | clang-900.0.39.2 | 2.7.14      | SSE4.1, SSE4.2, AVX, AVX2, FMA            | [Download](https://github.com/lakshayg/tensorflow-build/raw/master/tensorflow-1.4.1-cp27-cp27m-macosx_10_12_x86_64.whl) |
+| 1.4.1    | CPU | macOS High Sierra | clang-900.0.38 | 3.6.2      | SSE4.1, SSE4.2, AVX, AVX2, FMA            | [Download](https://github.com/lakshayg/tensorflow-build/raw/master/tensorflow-1.4.1-cp27-cp27m-macosx_10_13_x86_64.whl) |
 
 
 **External Links** (Please consider giving a :star: or :+1: to the original sources in case you use external links)
