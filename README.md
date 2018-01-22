@@ -31,9 +31,13 @@ pip install --ignore-installed --upgrade "Download URL"
 
 | TF       | HW       | OS           | Python        | Supports                            |                                         |
 |----------|----------|--------------|---------------|-------------------------------------|-----------------------------------------|
-| 1.1-1.3  | CPU, GPU | Ubuntu 16.04 | 2.7, 3.5, 3.6 | FMA, AVX, AVX2, SSE4.1, SSE4.2, MPI | [Link](https://github.com/mind/wheels)  |
+| 1.1-1.4  | CPU, GPU | Ubuntu 16.04 | 2.7, 3.5, 3.6 | FMA, AVX, AVX2, SSE4.1, SSE4.2, MPI | [Link](https://github.com/mind/wheels)  |
 | 1.2.1    | CPU      | Ubuntu 17.04 | 3.5.3         | XLA, AVX, AVX2, FMA, SSE4.1, SSE4.2 | [Link](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/26) |
 
 **If you find a binary present on the internet, consider opening a pull request to add a link to it**
 
+**Visit [tensorflow.org][1] for instructions on building tensorflow for your machine**
+
 [@lakshayg_](https://twitter.com/lakshayg_)
+
+[1]: https://www.tensorflow.org/install/install_sources
