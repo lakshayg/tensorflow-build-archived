@@ -36,9 +36,11 @@ pip install --ignore-installed --upgrade "Download URL"
 | 1.1-1.4  | CPU, GPU | Ubuntu 16.04 | 2.7, 3.5, 3.6 | FMA, AVX, AVX2, SSE4.1, SSE4.2, MPI | [Link](https://github.com/mind/wheels)  |
 | 1.2.1    | CPU      | Ubuntu 17.04 | 3.5.3         | XLA, AVX, AVX2, FMA, SSE4.1, SSE4.2 | [Link](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/26) |
 
-**If you find a binary present on the internet, consider opening a pull request to add a link to it**
+**If you find a binary present on the internet, consider opening a pull request to add a link to it. You can also contribute binaries by sharing a link via email**
 
-**Visit [tensorflow.org][1] for instructions on building tensorflow for your machine**
+**Visit [tensorflow.org][1] for instructions on building tensorflow for your machine.**
+
+**I sometimes use git commands which modify repo's history to keep repo size in check, due to which your forks might get invalidated from time-to-time. If such a case try `git pull --rebase` on your machine.**
 
 [@lakshayg_](https://twitter.com/lakshayg_)
 
