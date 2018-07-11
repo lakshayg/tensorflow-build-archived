@@ -25,6 +25,8 @@ pip install --ignore-installed --upgrade "Download URL"
 | 1.8.0    | CPU | macOS High Sierra      | clang-902.0.39.1  | 3.6.5      | SSE4.1, SSE4.2, AVX, AVX2, FMA, SSSE3, POPCNT, CX16  | [Download](https://github.com/lakshayg/tensorflow-build/raw/master/tensorflow-1.8.0-cp36-cp36m-macosx_10_7_x86_64.whl) |
 | 1.8.0    | CPU | macOS High Sierra      | clang-902.0.39.1  | 3.6.5      | SSE4.1, SSE4.2, AVX, AVX2, FMA  | [Download](https://github.com/lakshayg/tensorflow-build/releases/download/v1.8.0-macos-py27-py36-avx-avx2-fma-sse41-sse42/tensorflow-1.8.0-cp36-cp36m-macosx_10_13_x86_64.whl) |
 | 1.8.0    | CPU | macOS High Sierra      | clang-902.0.39.1  | 2.7.15     | SSE4.1, SSE4.2, AVX, AVX2, FMA  | [Download](https://github.com/lakshayg/tensorflow-build/releases/download/v1.8.0-macos-py27-py36-avx-avx2-fma-sse41-sse42/tensorflow-1.8.0-cp27-cp27m-macosx_10_13_x86_64.whl) |
+| 1.9.0    | CPU | macOS High Sierra      | clang-902.0.39.1  | 3.6.5      | SSE4.1, SSE4.2, AVX, AVX2, FMA  | [Download](https://github.com/lakshayg/tensorflow-build/releases/download/tf1.9.0-macos-py27-py36/tensorflow-1.9.0-cp36-cp36m-macosx_10_13_x86_64.whl) |
+| 1.9.0    | CPU | macOS High Sierra      | clang-902.0.39.1  | 2.7.15     | SSE4.1, SSE4.2, AVX, AVX2, FMA  | [Download](https://github.com/lakshayg/tensorflow-build/releases/download/tf1.9.0-macos-py27-py36/tensorflow-1.9.0-cp27-cp27m-macosx_10_13_x86_64.whl) |
 
 **External Links** (Please consider giving a :star: or :+1: to the original sources in case you use external links)
 
