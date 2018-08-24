@@ -38,9 +38,9 @@ pip install --ignore-installed --upgrade "Download URL"
 
 | TF       | HW       | OS           | Python        | Supports                            |                                         |
 |----------|----------|--------------|---------------|-------------------------------------|-----------------------------------------|
-| 1.1-1.4  | CPU, GPU | Ubuntu 16.04 | 2.7, 3.5, 3.6 | FMA, AVX, AVX2, SSE4.1, SSE4.2, MPI | [Link](https://github.com/mind/wheels)  |
+| 1.1-1.7  | CPU, GPU | Ubuntu 16.04 | 2.7, 3.5, 3.6 | FMA, AVX, AVX2, SSE4.1, SSE4.2, MPI | [Link](https://github.com/mind/wheels)  |
 | 1.2.1    | CPU      | Ubuntu 17.04 | 3.5.3         | XLA, AVX, AVX2, FMA, SSE4.1, SSE4.2 | [Link](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/26) |
-| 1.0-1.8  | CPU, GPU | Windows      | 2.7, 3.5, 3.6 | AVX, AVX2                           | [Link](https://github.com/fo40225/tensorflow-windows-wheel) |
+| 1.0-1.9  | CPU, GPU | Windows      | 2.7, 3.5, 3.6 | AVX, AVX2                           | [Link](https://github.com/fo40225/tensorflow-windows-wheel) |
 
 **Visit [tensorflow.org][1] for instructions on building tensorflow for your machine.**
 
