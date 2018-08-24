@@ -42,11 +42,13 @@ pip install --ignore-installed --upgrade "Download URL"
 | 1.2.1    | CPU      | Ubuntu 17.04 | 3.5.3         | XLA, AVX, AVX2, FMA, SSE4.1, SSE4.2 | [Link](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/26) |
 | 1.0-1.8  | CPU, GPU | Windows      | 2.7, 3.5, 3.6 | AVX, AVX2                           | [Link](https://github.com/fo40225/tensorflow-windows-wheel) |
 
-**If you find a binary present on the internet, consider opening a pull request to add a link to it. You can also contribute binaries by sharing a link via email**
-
 **Visit [tensorflow.org][1] for instructions on building tensorflow for your machine.**
 
-**I sometimes use git commands which modify repo's history to keep repo size in check, due to which your forks might get invalidated from time-to-time. If such a case try `git pull --rebase` on your machine.**
+# Donating
+
+If you found this project useful, consider buying me a coffee
+
+<a href="https://www.buymeacoffee.com/lakshayg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 [@lakshayg_](https://twitter.com/lakshayg_)
 
