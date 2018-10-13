@@ -2,11 +2,11 @@ This repository contains custom builds of tensorflow. To install
 one of these on your system, download the correct file according
 to your version of python and gcc and run the following command.
 ```
-pip install --ignore-installed --upgrade /path/to/binary.whl
+pip install --ignore-installed --upgrade /path/to/binary.whl --user
 ```
 You can also install directly from github using
 ```
-pip install --ignore-installed --upgrade "Download URL"
+pip install --ignore-installed --upgrade "Download URL" --user
 ```
 
 | TF    | HW  | OS                | GCC              | Python | Supports                                            |                                                                                                                                                                                |
