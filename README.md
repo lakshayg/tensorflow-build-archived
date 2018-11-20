@@ -41,7 +41,8 @@ pip install --ignore-installed --upgrade "Download URL" --user
 | 1.12.0| CPU | MacOS Mojave      | clang-1000.10.44.4 | 3.7.0  | FMA, AVX, AVX2, SSE4.1, SSE4.2  | [Download](https://github.com/lakshayg/tensorflow-build/releases/download/tf1.12.0-macOS-mojave-ubuntu16.04-py2-py3/tensorflow-1.12.0-cp37-cp37m-macosx_10_13_x86_64.whl) |
 | 1.12.0| CPU | Ubuntu 16.04      | 5.4 | 2.7.12 | FMA, AVX, AVX2, SSE4.1, SSE4.2  | [Download](https://github.com/lakshayg/tensorflow-build/releases/download/tf1.12.0-macOS-mojave-ubuntu16.04-py2-py3/tensorflow-1.12.0-cp27-cp27mu-linux_x86_64.whl) |
 | 1.12.0| CPU | Ubuntu 16.04      | 5.4 | 3.5.2  | FMA, AVX, AVX2, SSE4.1, SSE4.2  | [Download](https://github.com/lakshayg/tensorflow-build/releases/download/tf1.12.0-macOS-mojave-ubuntu16.04-py2-py3/tensorflow-1.12.0-cp35-cp35m-linux_x86_64.whl) |
-
+| 1.12.0| CPU | Ubuntu 18.04      | 7.3 |2.7.15rc1| FMA, AVX, AVX2, SSE4.1, SSE4.2  | [Download](https://github.com/lakshayg/tensorflow-build/releases/download/tf1.12.0-ubuntu18.04-py2-py3/tensorflow-1.12.0-cp27-cp27mu-linux_x86_64.whl) |
+| 1.12.0| CPU | Ubuntu 18.04      | 7.3 | 3.6.5  | FMA, AVX, AVX2, SSE4.1, SSE4.2  | [Download](https://github.com/lakshayg/tensorflow-build/releases/download/tf1.12.0-ubuntu18.04-py2-py3/tensorflow-1.12.0-cp36-cp36m-linux_x86_64.whl) |
 
 **External Links** (Please consider giving a :star: or :+1: to the original sources in case you use external links)
 
