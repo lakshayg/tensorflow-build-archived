@@ -89,6 +89,7 @@ function install_bazel_version() {
 
 packagelist=(
     curl git
+    libc-ares-dev
     python-dev python3-dev
     python-pip python3-pip
 )
