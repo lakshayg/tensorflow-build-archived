@@ -38,7 +38,6 @@ pip install --ignore-installed --upgrade "Download URL" --user
 | 1.11.0| CPU | Ubuntu 16.04      | 5.4 | 2.7.12 | FMA, AVX, AVX2, SSE4.1, SSE4.2  | [Download](https://github.com/lakshayg/tensorflow-build/releases/download/tf1.11.0-ubuntu16.04-py2.7-py3.5/tensorflow-1.11.0-cp27-cp27mu-linux_x86_64.whl) |
 | 1.11.0| CPU | Ubuntu 16.04      | 5.4 | 3.5.2  | FMA, AVX, AVX2, SSE4.1, SSE4.2  | [Download](https://github.com/lakshayg/tensorflow-build/releases/download/tf1.11.0-ubuntu16.04-py2.7-py3.5/tensorflow-1.11.0-cp35-cp35m-linux_x86_64.whl) |
 | 1.12.0| CPU | MacOS Mojave      | clang-1000.10.44.4 | 2.7.15 | FMA, AVX, AVX2, SSE4.1, SSE4.2  | [Download](https://github.com/lakshayg/tensorflow-build/releases/download/tf1.12.0-macOS-mojave-ubuntu16.04-py2-py3/tensorflow-1.12.0-cp27-cp27m-macosx_10_14_x86_64.whl) |
-| 1.12.0| CPU | MacOS Mojave      | clang-1000.11.45.5 | 3.6.0 | FMA, AVX, AVX2, SSE4.1, SSE4.2  | [Download](tensorflow-1.12.0-cp36-cp36m-macosx_10_6_intel.whl) |
 | 1.12.0| CPU | MacOS Mojave      | clang-1000.10.44.4 | 3.7.0  | FMA, AVX, AVX2, SSE4.1, SSE4.2  | [Download](https://github.com/lakshayg/tensorflow-build/releases/download/tf1.12.0-macOS-mojave-ubuntu16.04-py2-py3/tensorflow-1.12.0-cp37-cp37m-macosx_10_13_x86_64.whl) |
 | 1.12.0| CPU | Ubuntu 16.04      | 5.4 | 2.7.12 | FMA, AVX, AVX2, SSE4.1, SSE4.2  | [Download](https://github.com/lakshayg/tensorflow-build/releases/download/tf1.12.0-macOS-mojave-ubuntu16.04-py2-py3/tensorflow-1.12.0-cp27-cp27mu-linux_x86_64.whl) |
 | 1.12.0| CPU | Ubuntu 16.04      | 5.4 | 3.5.2  | FMA, AVX, AVX2, SSE4.1, SSE4.2  | [Download](https://github.com/lakshayg/tensorflow-build/releases/download/tf1.12.0-macOS-mojave-ubuntu16.04-py2-py3/tensorflow-1.12.0-cp35-cp35m-linux_x86_64.whl) |
@@ -54,6 +53,7 @@ pip install --ignore-installed --upgrade "Download URL" --user
 | 1.1-1.7  | CPU, GPU | Ubuntu 16.04 | 2.7, 3.5, 3.6 | FMA, AVX, AVX2, SSE4.1, SSE4.2, MPI | [Link](https://github.com/mind/wheels)  |
 | 1.2.1    | CPU      | Ubuntu 17.04 | 3.5.3         | XLA, AVX, AVX2, FMA, SSE4.1, SSE4.2 | [Link](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/26) |
 | 1.0-1.11 | CPU, GPU | Windows      | 2.7, 3.5, 3.6 | AVX, AVX2                           | [Link](https://github.com/fo40225/tensorflow-windows-wheel) |
+| 1.12.0| CPU | MacOS Mojave      | 3.6.0 | FMA, AVX, AVX2, SSE4.1, SSE4.2  | [Link](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/95) |
 
 **Visit [tensorflow.org][1] for instructions on building tensorflow for your machine.**
 
