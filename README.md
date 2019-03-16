@@ -57,12 +57,6 @@ pip install --ignore-installed --upgrade "Download URL" --user
 
 **Visit [tensorflow.org][1] for instructions on building tensorflow for your machine.**
 
-# Donating
-
-If you found this project useful, consider buying me a coffee
-
-<a href="https://www.buymeacoffee.com/lakshayg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
 [@lakshayg_](https://twitter.com/lakshayg_)
 
 [1]: https://www.tensorflow.org/install/install_sources
