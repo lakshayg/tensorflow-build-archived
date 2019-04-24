@@ -54,6 +54,7 @@ pip install --ignore-installed --upgrade "Download URL" --user
 | 1.2.1    | CPU      | Ubuntu 17.04 | 3.5.3         | XLA, AVX, AVX2, FMA, SSE4.1, SSE4.2 | [Link](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/26) |
 | 1.0-1.11 | CPU, GPU | Windows      | 2.7, 3.5, 3.6 | AVX, AVX2                           | [Link](https://github.com/fo40225/tensorflow-windows-wheel) |
 | 1.12.0| CPU | MacOS Mojave      | 3.6.0 | FMA, AVX, AVX2, SSE4.1, SSE4.2  | [Link](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/95) |
+| 1.13.1| CPU | MacOS Mojave      | 3.6.5 | FMA, AVX, AVX2, SSE4.1, SSE4.2  | [Link](https://github.com/xiaobailong24/tensorflow-build/releases/download/tf1.13.1-macOS-mojave-py3/tensorflow-1.13.1-cp36-cp36m-macosx_10_13_x86_64.whl) |
 
 **Visit [tensorflow.org][1] for instructions on building tensorflow for your machine.**
 
