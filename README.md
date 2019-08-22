@@ -48,6 +48,7 @@ pip install --ignore-installed --upgrade "Download URL" --user
 | 1.13.1 | CPU | Ubuntu 16.04     | 5.4 | 3.5.2  | FMA, AVX, AVX2, SSE4.1, SSE4.2  | [Download](https://github.com/lakshayg/tensorflow-build/releases/download/tf1.13.1-ubuntu16.04-py3/tensorflow-1.13.1-cp35-cp35m-linux_x86_64.whl) |
 | 1.13.1 | CPU | MacOS Mojave     | clang-1001.0.46.4 | 3.7.2  | FMA, AVX, AVX2, SSE4.1, SSE4.2  | [Download](https://github.com/lakshayg/tensorflow-build/releases/download/tf1.13.1-ubuntu16.04-py3/tensorflow-1.13.1-cp37-cp37m-macosx_10_9_x86_64.whl) |
 | 1.14.1 | CPU | Ubuntu 18.04     | 7.4 | 3.7.3  | FMA, AVX2, AVX512F  | [Download](https://github.com/lakshayg/tensorflow-build/releases/download/tf-1.14-ubuntu18.04-py3.7/tensorflow-1.14.1-cp37-cp37m-linux_x86_64.whl) |
+| 1.14.1 | CPU | macOS Mojave     | clang-1001.0.46.4 | 3.7.4  | FMA, AVX2, AVX512F  | [Download](https://github.com/lakshayg/tensorflow-build/releases/download/tf-1.14-ubuntu18.04-py3.7/tensorflow-1.14.1-cp37-cp37m-macosx_10_9_x86_64.whl) |
 
 **External Links** (Please consider giving a :star: or :+1: to the original sources in case you use external links). Note that these links have not been verified and the repo owner takes no responsibility for any damages caused through the use of these binaries.
 
