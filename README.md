@@ -50,7 +50,7 @@ pip install --ignore-installed --upgrade "Download URL" --user
 | 1.14.1 | CPU | Ubuntu 18.04     | 7.4 | 3.7.3  | FMA, AVX2, AVX512F  | [Download](https://github.com/lakshayg/tensorflow-build/releases/download/tf-1.14-ubuntu18.04-py3.7/tensorflow-1.14.1-cp37-cp37m-linux_x86_64.whl) |
 | 1.14.1 | CPU | macOS Mojave     | clang-1001.0.46.4 | 3.7.4  | FMA, AVX2, AVX512F  | [Download](https://github.com/lakshayg/tensorflow-build/releases/download/tf-1.14-ubuntu18.04-py3.7/tensorflow-1.14.1-cp37-cp37m-macosx_10_9_x86_64.whl) |
 | 1.14.1 | CPU | macOS Mojave     | clang-1001.0.46.4 | 3.7.4  | FMA, AVX, AVX2, SSE4.1, SSE4.2  | [Download](https://github.com/lakshayg/tensorflow-build/releases/download/tf1.14.1-mojave-py3.7/tensorflow-1.14.1-cp37-cp37m-macosx_10_9_x86_64.whl) |
-| 2.0.0 | CPU | macOS Mojave     | clang-1001.0.46.4 | 3.6.3  | FMA, AVX, AVX2, SSE4.1, SSE4.2  | [Download](https://github.com/tomjpsun/tensorflow-build/releases/download/tf-2.0.0-mojave-py3.6/tensorflow-2.0.0-cp36-cp36m-macosx_10_6_intel.whl) |
+
 
 **External Links** (Please consider giving a :star: or :+1: to the original sources in case you use external links). Note that these links have not been verified and the repo owner takes no responsibility for any damages caused through the use of these binaries.
 
@@ -62,6 +62,7 @@ pip install --ignore-installed --upgrade "Download URL" --user
 | 1.12.0| CPU | MacOS Mojave      | 3.6.0 | FMA, AVX, AVX2, SSE4.1, SSE4.2  | [Link](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/95) |
 | 1.13.1| CPU | MacOS Mojave      | 3.6.5 | FMA, AVX, AVX2, SSE4.1, SSE4.2  | [Link](https://github.com/xiaobailong24/tensorflow-build/releases/download/tf1.13.1-macOS-mojave-py3/tensorflow-1.13.1-cp36-cp36m-macosx_10_13_x86_64.whl) |
 | 2.0.0| CPU, GPU | Windows      | 3.6.7 | AVX, AVX2, Compute Capability 3.0  | [Link](https://github.com/coffeenmusic/tensorflow-build/releases/download/tf2.0rc0-windows-py3/tensorflow-2.0.0rc0-cp36-cp36m-win_amd64.whl) |
+| 2.0.0 | CPU | macOS Mojave     | clang-1001.0.46.4 | 3.6.3  | FMA, AVX, AVX2, SSE4.1, SSE4.2  | [Download](https://github.com/tomjpsun/tensorflow-build/releases/download/tf-2.0.0-mojave-py3.6/tensorflow-2.0.0-cp36-cp36m-macosx_10_6_intel.whl) |
 
 **Visit [tensorflow.org][1] for instructions on building tensorflow for your machine.**
 
