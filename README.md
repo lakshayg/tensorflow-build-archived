@@ -62,6 +62,8 @@ pip install --ignore-installed --upgrade "Download URL" --user
 | 1.12.0| CPU | MacOS Mojave      | 3.6.0 | FMA, AVX, AVX2, SSE4.1, SSE4.2  | [Link](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/95) |
 | 1.13.1| CPU | MacOS Mojave      | 3.6.5 | FMA, AVX, AVX2, SSE4.1, SSE4.2  | [Link](https://github.com/xiaobailong24/tensorflow-build/releases/download/tf1.13.1-macOS-mojave-py3/tensorflow-1.13.1-cp36-cp36m-macosx_10_13_x86_64.whl) |
 | 2.0.0| CPU, GPU | Windows      | 3.6.7 | AVX, AVX2, Compute Capability 3.0  | [Link](https://github.com/coffeenmusic/tensorflow-build/releases/download/tf2.0rc0-windows-py3/tensorflow-2.0.0rc0-cp36-cp36m-win_amd64.whl) |
+| 2.0.0| CPU | MacOS Mojave      | 3.6.3 | FMA, AVX, AVX2, SSE4.1, SSE4.2  | [Link](https://github.com/tomjpsun/tensorflow-build/releases/download/tf2.0.0-mojave-py3.6/tensorflow-2.0.0-cp36-cp36m-macosx_10_6_intel.whl) |
+
 
 **Visit [tensorflow.org][1] for instructions on building tensorflow for your machine.**
 
